@@ -1,0 +1,22 @@
+_repo: Badger-House-Community-Trail-Guide_62839
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Mesa Verde Museum Association
+    gutenberg_agent_id: '52077'
+    url: http://www.gutenberg.org/2009/agents/52077
+description: ''
+gutenberg_issued: '2020-08-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62839'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mesa Verde National Park (Colo.) -- Guidebooks'
+- !lcc 'F721'
+- GITenberg
+title: 'Badger House Community: Trail Guide'
+url: http://www.gutenberg.org/ebooks/62839
